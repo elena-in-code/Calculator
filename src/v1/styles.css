@@ -21,7 +21,8 @@
   height: 20px;
 }
 
-input {
+input,
+button {
   border: none;
   padding: 10px;
   margin: 10px;
