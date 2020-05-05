@@ -20,7 +20,6 @@ const calculation = (a, operator, b) => {
     default:
       'invalid';
   }
-  console.log('result :>> ', result);
   return result;
 };
 
